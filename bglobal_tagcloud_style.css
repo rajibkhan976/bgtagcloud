@@ -1,0 +1,28 @@
+/* 
+    Document   : bglobal_tagcloud_style
+    Created on : 2016/12/08, 20:39:55
+    Author     : eno_y
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.bg_tagcloud_related {
+    margin-left: 8px;
+    margin-bottom: 0.5em;
+}
+
+/* wp_category_checklist() */
+.bg_tagcloud_categorydiv {
+    border-color:#CEE1EF;
+    border-style:solid;
+    border-width:1px;
+    height:8em;
+    margin:-6px 4px 2px;
+    overflow:auto;
+    padding:0.1em 0.5em;  
+}
+
+
+ul.categorychecklist ul {
+    margin-left: 18px;
+}

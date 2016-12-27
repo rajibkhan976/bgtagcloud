@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bglobalTagCloud\n"
+"POT-Creation-Date: 2016-12-08 16:11+0900\n"
+"PO-Revision-Date: 2016-12-08 16:12+0900\n"
+"Last-Translator: bglobal <http://www.bglobalsourcing.com/>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../bglobalTagCloud.php:31
+msgid "bglobal Tag Cloud"
+msgstr ""
+
+#: ../bglobalTagCloud.php:32
+msgid "Dynamic tag cloud for related categories"
+msgstr ""
+
+#: ../bglobalTagCloud.php:189
+msgid "Title:"
+msgstr ""
+
+#: ../bglobalTagCloud.php:193
+msgid "Related dynamic category"
+msgstr ""
+
+#: ../bglobalTagCloud.php:196
+msgid "Related range"
+msgstr ""
+
+#: ../bglobalTagCloud.php:198
+msgid "All category"
+msgstr ""
+
+#: ../bglobalTagCloud.php:199
+msgid "Current category"
+msgstr ""
+
+#: ../bglobalTagCloud.php:200
+msgid "Include child category tree"
+msgstr ""
+
+#: ../bglobalTagCloud.php:201
+msgid "Include parent category tree"
+msgstr ""
+
+#: ../bglobalTagCloud.php:206
+msgid "internal link article"
+msgstr ""
+
+#: ../bglobalTagCloud.php:209
+msgid "Exclude Category"
+msgstr ""
+
+#: ../bglobalTagCloud.php:218
+msgid "Display format:"
+msgstr ""
+
+#: ../bglobalTagCloud.php:220
+msgid "flat"
+msgstr ""
+
+#: ../bglobalTagCloud.php:221
+msgid "list"
+msgstr ""
+
+#: ../bglobalTagCloud.php:225
+msgid "Sort by:"
+msgstr ""
+
+#: ../bglobalTagCloud.php:227
+msgid "Tag name"
+msgstr ""
+
+#: ../bglobalTagCloud.php:228
+msgid "Number of posts"
+msgstr ""
+
+#: ../bglobalTagCloud.php:232
+msgid "Order:"
+msgstr ""
+
+#: ../bglobalTagCloud.php:234
+msgid "Ascending"
+msgstr ""
+
+#: ../bglobalTagCloud.php:235
+msgid "Descending"
+msgstr ""
+
+#: ../bglobalTagCloud.php:236
+msgid "Random"
+msgstr ""
+
+#: ../bglobalTagCloud.php:240
+msgid "Font size (pt):"
+msgstr ""
+
+#: ../bglobalTagCloud.php:242
+msgid " - "
+msgstr ""
+
+#: ../bglobalTagCloud.php:246
+msgid "Max number of tags to display:"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "bglobal Tag Cloud display tags dynamically with specified counts from related articles belonging to the category of the display article."
+msgstr ""
